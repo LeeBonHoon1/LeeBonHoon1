@@ -1,6 +1,7 @@
 ### Hi there 👋
 
  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
  name: Waka Readme
 
 on:
@@ -19,5 +20,3 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 플래그 자리
-  <!--END_SECTION:waka-->
-
