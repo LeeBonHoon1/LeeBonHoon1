@@ -23,3 +23,6 @@ LeeBonHoon <span>🇰🇷</span>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <br>
 </p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeBonHoon1&layout=compact&theme=tokyonight)
